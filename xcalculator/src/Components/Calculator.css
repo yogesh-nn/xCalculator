@@ -1,0 +1,33 @@
+.buttons button{
+    width: 80px;
+    height: 80px;
+    padding: 0px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: rgb(161, 140, 140);
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 3px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.buttons button:hover {
+    /* cursor: pointer; */
+}
+
+.buttons .col {
+    /* width: 100%; */
+    padding: 0%;
+}
+
+.input-element input {
+    width: 25vw;
+}
+
+.output {
+    padding: 20px;
+    margin: 20px;
+}
